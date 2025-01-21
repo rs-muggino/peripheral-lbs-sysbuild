@@ -1,0 +1,13 @@
+# Target labels
+ mcuboot
+# Source files and their labels
+D:/ncs/peripheral_lbs/build/_sysbuild/sysbuild/images/bootloader/CMakeFiles/mcuboot
+D:/ncs/peripheral_lbs/build/_sysbuild/sysbuild/images/bootloader/CMakeFiles/mcuboot.rule
+D:/ncs/peripheral_lbs/build/_sysbuild/sysbuild/images/bootloader/CMakeFiles/mcuboot-complete.rule
+D:/ncs/peripheral_lbs/build/_sysbuild/sysbuild/images/bootloader/mcuboot-prefix/src/mcuboot-stamp/mcuboot-build.rule
+D:/ncs/peripheral_lbs/build/_sysbuild/sysbuild/images/bootloader/mcuboot-prefix/src/mcuboot-stamp/mcuboot-configure.rule
+D:/ncs/peripheral_lbs/build/_sysbuild/sysbuild/images/bootloader/mcuboot-prefix/src/mcuboot-stamp/mcuboot-download.rule
+D:/ncs/peripheral_lbs/build/_sysbuild/sysbuild/images/bootloader/mcuboot-prefix/src/mcuboot-stamp/mcuboot-install.rule
+D:/ncs/peripheral_lbs/build/_sysbuild/sysbuild/images/bootloader/mcuboot-prefix/src/mcuboot-stamp/mcuboot-mkdir.rule
+D:/ncs/peripheral_lbs/build/_sysbuild/sysbuild/images/bootloader/mcuboot-prefix/src/mcuboot-stamp/mcuboot-patch.rule
+D:/ncs/peripheral_lbs/build/_sysbuild/sysbuild/images/bootloader/mcuboot-prefix/src/mcuboot-stamp/mcuboot-update.rule

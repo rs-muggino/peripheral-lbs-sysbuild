@@ -1,0 +1,20 @@
+{
+    "format-version": 1,
+    "time": 1737435479,
+    "files": [
+        {
+            "type": "application",
+            "board": "nrf52dk",
+            "soc": "nrf52832",
+            "load_address": 49664,
+            "image_index": "0",
+            "slot_index_primary": "1",
+            "slot_index_secondary": "2",
+            "version_MCUBOOT": "2.7.0+0",
+            "size": 195100,
+            "file": "peripheral_lbs.bin",
+            "modtime": 1737435477
+        }
+    ],
+    "name": "peripheral_lbs"
+}
