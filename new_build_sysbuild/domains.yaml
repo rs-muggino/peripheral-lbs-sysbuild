@@ -1,9 +1,0 @@
-default: peripheral_lbs
-build_dir: D:/ncs/peripheral_lbs/new_build_sysbuild
-domains:
-  - name: peripheral_lbs
-    build_dir: D:/ncs/peripheral_lbs/new_build_sysbuild/peripheral_lbs
-  - name: mcuboot
-    build_dir: D:/ncs/peripheral_lbs/new_build_sysbuild/mcuboot
-flash_order:
-  - peripheral_lbs
